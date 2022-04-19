@@ -1,7 +1,9 @@
 package com.bridgelabz;
 
 import java.util.Scanner;
-
+/*
+*Author: sadanand pandey
+*/
 public class Distance {
 	public static void main(String[] args) {
 		int x, y;
